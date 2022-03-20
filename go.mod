@@ -29,6 +29,7 @@ require (
 )
 
 require (
+	github.com/DataDog/datadog-go/v5 v5.1.0 // indirect
 	github.com/Microsoft/go-winio v0.5.0 // indirect
 	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.1.0 // indirect
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.10.0 // indirect
